@@ -4,6 +4,7 @@ Esse código foi desenvolvido com:
 - HTML Semântico;
 - Boas práticas de código;
 - Estilização com CSS;
+- Atributos ARIA para acessibilidade;
 - E utilizando os comandos do Git para subir o projeto através de branches, simulando um projeto real.
 #
 ### Página para Teste: [Culturama](https://carolinarlima.github.io/culturama/)
