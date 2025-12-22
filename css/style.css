@@ -60,7 +60,8 @@ p{
     margin-bottom: 15px;
 }
 
-input[type="tel"]{
+input[type="tel"],
+input[type="file"]{
     margin-bottom: 0;
 }
 
