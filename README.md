@@ -5,7 +5,7 @@ Esse código foi desenvolvido com:
 - Boas práticas de código;
 - Estilização com CSS;
 - Atributos ARIA para acessibilidade;
-- E utilizando os comandos do Git para subir o projeto através de branches, simulando um projeto real.
+- Utilização dos comandos do Git para subir o projeto através de branches, simulando um projeto real.
 #
 ### Página para Teste: [Culturama](https://carolinarlima.github.io/culturama/)
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/4975968?s=280&v=4" width="100" height="100"/>
