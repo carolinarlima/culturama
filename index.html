@@ -64,6 +64,7 @@
                     <option value="Viuvo">Viúvo(a)</option>
                     <option value="UniaoEstavel">União Estável</option>
                 </select>
+
                 <label for="state">Estado:</label>
                 <select id="state" name="userState" required>
                     <option value="notInformed">Selecione...</option>
@@ -129,10 +130,33 @@
                     <option value="Sertanejo"></option>
                 </datalist>
                 <br>
-                
+
                 <label for="favoriteColor">Cor Favorita:</label>
                 <input type="color" name="userColor" id="favoriteColor">
+
             </fieldset>
+
+            <fieldset>
+                <legend>Opinião:</legend>
+                    <p>Escala de Satisfação:</p>
+                    <input type="radio" name="opcao" id="excellent" value="otima">
+                    <label for="excellent">Ótima</label>
+
+                    <input type="radio" name="opcao" id="good" value="boa">
+                    <label for="good">Boa</label>
+
+                    <input type="radio" name="opcao" id="poor" value="regular">
+                    <label for="poor">Regular</label>
+
+                    <input type="radio" name="opcao" id="bad" value="ruim">
+                    <label for="bad">Ruim</label>
+                    <br>
+
+                    <label for="mensagem">Comentário:</label>
+                    <br>
+                    <textarea id="mensagem" name="comentario" rows="4" cols="50"placeholder="Digite aqui sua opinião..."></textarea>
+            </fieldset>
+
             <button type="submit">Enviar</button>
         </form>
     </section>
