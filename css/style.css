@@ -108,6 +108,6 @@ button[type="submit"]:hover{
 }
 
 button[type="reset"]:hover{
-    background-color: rgb(255, 111, 0);
+    background-color: orangered;
     color: #ffffff;
 }
