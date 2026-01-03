@@ -10,7 +10,7 @@ O **Culturama** é um projeto de formulário web desenvolvido com foco total em 
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Acessibilidade](https://img.shields.io/badge/Acessibilidade-A11Y-blueviolet?style=for-the-badge)
+![Acessibilidade](https://img.shields.io/badge/Acessibilidade-ARIA-blueviolet?style=for-the-badge)
 ![SEO](https://img.shields.io/badge/SEO-Otimizado-brightgreen?style=for-the-badge)
 
 ---
@@ -20,7 +20,7 @@ O **Culturama** é um projeto de formulário web desenvolvido com foco total em 
 Ao contrário de formulários comuns, o Culturama foi construído aplicando:
 
 * **HTML Semântico:** Uso correto de tags como `<main>`, `<section>`, `<fieldset>`, `<legend>` e `<label>`, garantindo que a estrutura do documento seja lógica.
-* **Acessibilidade (A11y):** Implementação de atributos que facilitam a navegação por teclado e a leitura por softwares de voz.
+* **Acessibilidade (ARIA):** Implementação de atributos que facilitam a navegação por teclado e a leitura por softwares de voz.
 * **Boas Práticas de SEO:** Estruturação de cabeçalhos e metadados que melhoram a relevância da página para algoritmos de busca.
 * **Design Responsivo:** Estilização com CSS3 para garantir que o formulário seja funcional em desktops, tablets e smartphones.
 
